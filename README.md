@@ -1,4 +1,4 @@
-# Uber Analytics Dashboard
+# Uber Data Analytics
 
 A comprehensive data analytics dashboard built with Python and Streamlit to analyze Uber ride data. The application provides dataset exploration, business KPIs, advanced visualizations, and a natural language data assistant for interactive insights.
 
@@ -21,20 +21,20 @@ A comprehensive data analytics dashboard built with Python and Streamlit to anal
 - streamlit-option-menu
 
 ## Project Structure
-
-Uber_Analytics/
+```
+Uber-Data-Analytics/
 ├── uber_analytics.py
 ├── uber_analytics_dataset.csv
 ├── users.csv
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/Uber_Analytics_Dashboard.git
-cd Uber_Analytics_Dashboard
+git clone https://github.com/yashprajapati18705-ctrl/Uber-Data-Analytics.git
+cd Uber-Data-Analytics
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
