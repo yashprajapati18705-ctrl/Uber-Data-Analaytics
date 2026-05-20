@@ -1,18 +1,3 @@
-## 1. Create `README.md`
-
-### Where to create:
-
-Inside your `Uber_Analytics` folder.
-
-### Final path:
-
-```text
-Uber_Analytics/README.md
-```
-
-### Paste this content into `README.md`:
-
-````markdown
 # Uber Analytics Dashboard
 
 A comprehensive data analytics dashboard built with Python and Streamlit to analyze Uber ride data. The application provides dataset exploration, business KPIs, advanced visualizations, and a natural language data assistant for interactive insights.
