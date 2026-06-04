@@ -2,6 +2,14 @@
 
 A comprehensive data analytics dashboard built with Python and Streamlit to analyze Uber ride data. The application provides dataset exploration, business KPIs, advanced visualizations, and a natural language data assistant for interactive insights.
 
+## Live Demo
+
+🔗 Streamlit App: [https://uber-data-analytics.streamlit.app](https://uber-data-analytics.streamlit.app)
+
+## GitHub Repository
+
+🔗 Repository: https://github.com/yashprajapati18705-ctrl/Uber-Data-Analaytics
+
 ## Features
 
 - Dataset explorer with search and filtering
@@ -75,3 +83,16 @@ Ask questions such as:
 * total rides
 * revenue
 * distance
+
+## 👨‍💻 Author
+
+**Yash Prajapati**
+
+* GitHub: [https://github.com/yashprajapati18705-ctrl](https://github.com/yashprajapati18705-ctrl)
+* LinkedIn: [https://www.linkedin.com/in/yash-prajapati-cse2026](https://www.linkedin.com/in/yash-prajapati-cse2026)
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a star on GitHub.
